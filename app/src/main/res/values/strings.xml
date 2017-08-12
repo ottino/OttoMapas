@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OttoMapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="access_token">pk.eyJ1IjoibW90dGlubyIsImEiOiJjajY5aGlzbzAwcnc3MzNvbDVxcDVyeTNtIn0.xJFV2N9qP2L-xeAb2PSkfw</string>
+</resources>
